@@ -1,0 +1,7 @@
+﻿标识符类型,示例,Column 1
+包或者模块,org.junit.jupiter.api，com.google.common.collect,
+类或者接口,Stream，FutureTask，LinkedHashMap，HttpClient,
+方法或者域,remove、groupingBy，getCrc,
+常量域,MIN_VALUE，NEGATIVE_INFINITY,
+局部变量,i，denom，houseNum,
+类型参数,T，E，K，V，X，R，U，V，T1，T2,
